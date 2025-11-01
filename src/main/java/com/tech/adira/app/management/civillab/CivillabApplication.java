@@ -9,5 +9,4 @@ public class CivillabApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CivillabApplication.class, args);
 	}
-
 }
